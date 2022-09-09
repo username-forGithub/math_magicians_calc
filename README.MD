@@ -6,7 +6,7 @@
 > - Read a random math-related quote.
 
 ## Preview
-Coming soon :smile:
+![Screenshot_1](https://user-images.githubusercontent.com/104260002/189380028-246467ee-3406-4140-bf1e-17ba3792f341.jpg)
 
 ## Built With (Linter)
 
