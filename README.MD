@@ -6,10 +6,9 @@
 > - Read a random math-related quote.
 
 ## Preview
-  ![Screenshot_2](https://user-images.githubusercontent.com/104260002/189412174-e86fc3a5-449a-4c83-bb29-ef61024a201e.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/104260002/189411983-4eda94b0-17e3-497f-9643-e74b2aa629d9.jpg)
 
 ## Built With (Linter)
-
 - React
 - JavaScript (Eslint)
 - CSS (Stylelint)
