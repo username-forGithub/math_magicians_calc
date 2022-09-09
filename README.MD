@@ -1,5 +1,5 @@
 
-# Math-Magicians-Components
+# Math-Magicians-Calculator
 
 > "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 > - Make simple calculations.
@@ -9,7 +9,6 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/104260002/189412074-0ae453a9-654f-43f8-8cca-170b638c3a1f.jpg)
 
 ## Built With (Linter)
-
 - React
 - JavaScript (Eslint)
 - CSS (Stylelint)
