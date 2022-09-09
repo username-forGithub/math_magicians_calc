@@ -1,4 +1,4 @@
-# Math-Magicians-RX
+# Math-Magicians-Calculator
 
 > "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 > - Make simple calculations.
