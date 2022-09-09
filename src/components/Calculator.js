@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
@@ -57,4 +56,3 @@ function Calculator() {
   );
 }
 export default Calculator;
-
