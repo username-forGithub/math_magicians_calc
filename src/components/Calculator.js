@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
@@ -49,10 +50,11 @@ function Calculator() {
           <button type="button" onClick={() => handleClick('-')}>-</button>
           <button type="button" onClick={() => handleClick('+')}>+</button>
           <button type="button" onClick={() => handleClick('=')}>=</button>
+
         </div>
       </div>
     </div>
   );
 }
-
 export default Calculator;
+
