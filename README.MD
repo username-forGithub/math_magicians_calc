@@ -6,7 +6,10 @@
 > - Read a random math-related quote.
 
 ## Preview
-![Screenshot_2](https://user-images.githubusercontent.com/104260002/189412074-0ae453a9-654f-43f8-8cca-170b638c3a1f.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/104260002/190842564-74b086ff-0960-44a3-89c2-38a9e774ce86.jpg)
+![Screenshot_1](https://user-images.githubusercontent.com/104260002/190842562-aa6f9413-9ade-4b23-9514-c3e5abd374b0.jpg)
+![Screenshot_3](https://user-images.githubusercontent.com/104260002/190842566-142b58ff-5b0b-40e0-bd20-830da2b745c9.jpg)
+
 
 ## Built With (Linter)
 - React
